@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Hat Brim -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M24,46 C34,42 74,42 84,46 C80,48 28,48 24,46 Z" />
+        
+    <!-- Hat Crown -->
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M34,45 C35,32 40,24 54,24 C68,24 73,32 74,45 Z" />
+        
+    <!-- Hat Ribbon (Crimson Red) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M33.5,43 C42,40.5 66,40.5 74.5,43 L74.2,45.5 C66,43 42,43 33.8,45.5 Z" />
+
+    <!-- Sunglasses (Stealth Black with Red & Cyan Neon Reflex) -->
+    <!-- Left Lens -->
+    <path
+        android:fillColor="#0F172A"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.5"
+        android:pathData="M34,52 L49,52 L46,62 L37,62 Z" />
+    <!-- Right Lens -->
+    <path
+        android:fillColor="#0F172A"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.5"
+        android:pathData="M59,52 L74,52 L71,62 L62,62 Z" />
+    <!-- Bridge -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M49,54 L59,54 L59,56 L49,56 Z" />
+    <!-- Glasses Neon Glare -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M37,55 L46,55 L45,57 L38,57 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M62,55 L71,55 L70,57 L63,57 Z" />
+
+    <!-- Coat Lapels / Collar -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M32,70 L48,78 L42,86 L26,84 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M76,70 L60,78 L66,86 L82,84 Z" />
+    <!-- Tie / Secret Badge -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M51,74 L57,74 L55,85 L54,87 L53,85 Z" />
+</vector>

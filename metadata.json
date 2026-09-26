@@ -1,0 +1,6 @@
+{
+  "name": "SPY",
+  "description": "Polished single-device pass-and-play party game with multi-language support and secret roles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
